@@ -1,0 +1,14 @@
+﻿@model Sozluk
+@{
+    ViewData["Title"] = "See";
+}
+
+<h2>See</h2>
+<div class="form-group">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" class="form-control" disabled />
+</div>
+<div class="form-control">
+    <img src="~/img/@Model.Media" alt="@Model.Name" class="img-thumbnail">
+</div>
+

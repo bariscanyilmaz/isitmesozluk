@@ -1,0 +1,11 @@
+D:\Projects\IsitmeSozluk\IsitmeSozluk\bin\Debug\netcoreapp2.0\IsitmeSozluk.deps.json
+D:\Projects\IsitmeSozluk\IsitmeSozluk\bin\Debug\netcoreapp2.0\IsitmeSozluk.runtimeconfig.json
+D:\Projects\IsitmeSozluk\IsitmeSozluk\bin\Debug\netcoreapp2.0\IsitmeSozluk.runtimeconfig.dev.json
+D:\Projects\IsitmeSozluk\IsitmeSozluk\bin\Debug\netcoreapp2.0\IsitmeSozluk.dll
+D:\Projects\IsitmeSozluk\IsitmeSozluk\bin\Debug\netcoreapp2.0\IsitmeSozluk.pdb
+D:\Projects\IsitmeSozluk\IsitmeSozluk\obj\Debug\netcoreapp2.0\IsitmeSozluk.csprojResolveAssemblyReference.cache
+D:\Projects\IsitmeSozluk\IsitmeSozluk\obj\Debug\netcoreapp2.0\IsitmeSozluk.csproj.CoreCompileInputs.cache
+D:\Projects\IsitmeSozluk\IsitmeSozluk\obj\Debug\netcoreapp2.0\IsitmeSozluk.AssemblyInfoInputs.cache
+D:\Projects\IsitmeSozluk\IsitmeSozluk\obj\Debug\netcoreapp2.0\IsitmeSozluk.AssemblyInfo.cs
+D:\Projects\IsitmeSozluk\IsitmeSozluk\obj\Debug\netcoreapp2.0\IsitmeSozluk.dll
+D:\Projects\IsitmeSozluk\IsitmeSozluk\obj\Debug\netcoreapp2.0\IsitmeSozluk.pdb
